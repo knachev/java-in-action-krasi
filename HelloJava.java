@@ -4,7 +4,7 @@ class HelloJava {
     
    String sayHello = "Hello Java :)";
      
-   System.out.println(sayHello + "\n");
+   System.out.println(sayHello");
 
 }
 
